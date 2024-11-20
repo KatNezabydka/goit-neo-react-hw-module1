@@ -1,0 +1,16 @@
+.friendList {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px auto;
+
+}
+
+.friendList > li {
+    display: flex;
+    justify-content: center;
+    max-width: 70px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
